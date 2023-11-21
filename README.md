@@ -1,4 +1,6 @@
 # Atividade-Mapa
 Atividade Mapa da disciplina Tópicos Especiais em Engenharia de Software
 
-1º Commit: Inclusão da primeira linha.
+
+
+2º Commit: Exclusão da linha 4, e inclusão da linha 6.
